@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-12T11:03:12 AWST" name="Suite" finished-at="2022-10-12T11:05:08 AWST" duration-ms="116144">
+    <groups>
+    </groups>
+    <test started-at="2022-10-12T11:03:12 AWST" name="Test" finished-at="2022-10-12T11:05:08 AWST" duration-ms="116144">
+      <class name="planittesting_testng_automation.TestMain">
+        <test-method is-config="true" signature="initialSetUp()[pri:0, instance:planittesting_testng_automation.TestMain@5ba3f27a]" started-at="2022-10-12T11:03:12 AWST" name="initialSetUp" finished-at="2022-10-12T11:03:14 AWST" duration-ms="1748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="TestCase1()[pri:0, instance:planittesting_testng_automation.TestMain@5ba3f27a]" started-at="2022-10-12T11:03:14 AWST" name="TestCase1" finished-at="2022-10-12T11:04:49 AWST" duration-ms="94838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method is-config="true" signature="tearDownValidation()[pri:0, instance:planittesting_testng_automation.TestMain@5ba3f27a]" started-at="2022-10-12T11:04:49 AWST" name="tearDownValidation" finished-at="2022-10-12T11:04:49 AWST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownValidation -->
+        <test-method is-config="true" signature="initialSetUp()[pri:0, instance:planittesting_testng_automation.TestMain@5ba3f27a]" started-at="2022-10-12T11:04:49 AWST" name="initialSetUp" finished-at="2022-10-12T11:04:50 AWST" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="TestCase2()[pri:0, instance:planittesting_testng_automation.TestMain@5ba3f27a]" started-at="2022-10-12T11:04:50 AWST" name="TestCase2" finished-at="2022-10-12T11:04:58 AWST" duration-ms="8619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method is-config="true" signature="tearDownValidation()[pri:0, instance:planittesting_testng_automation.TestMain@5ba3f27a]" started-at="2022-10-12T11:04:58 AWST" name="tearDownValidation" finished-at="2022-10-12T11:04:58 AWST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownValidation -->
+        <test-method is-config="true" signature="initialSetUp()[pri:0, instance:planittesting_testng_automation.TestMain@5ba3f27a]" started-at="2022-10-12T11:04:58 AWST" name="initialSetUp" finished-at="2022-10-12T11:04:59 AWST" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="TestCase3()[pri:0, instance:planittesting_testng_automation.TestMain@5ba3f27a]" started-at="2022-10-12T11:04:59 AWST" name="TestCase3" finished-at="2022-10-12T11:05:08 AWST" duration-ms="8939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method is-config="true" signature="tearDownValidation()[pri:0, instance:planittesting_testng_automation.TestMain@5ba3f27a]" started-at="2022-10-12T11:05:08 AWST" name="tearDownValidation" finished-at="2022-10-12T11:05:08 AWST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownValidation -->
+      </class> <!-- planittesting_testng_automation.TestMain -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
